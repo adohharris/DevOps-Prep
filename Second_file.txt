@@ -1,1 +1,2 @@
 My second file
+Adding more lines to the text file
